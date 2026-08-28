@@ -1,0 +1,8 @@
+.DS_Store
+_output/*
+_output
+doc
+doc/*
+docs
+docs/*
+.vscode
